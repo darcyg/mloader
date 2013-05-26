@@ -1,0 +1,11 @@
+{
+    "name": "mloader",
+    "url": "http://github.com/massiveinteractive/mloader",
+    "license": "MIT",
+    "tags": [ "cross", "utility", "massive"],
+    "description": "A cross platform Haxe library for loading resources with utilities for queueing and caching requests. Supports AVM2, JavaScript, Neko and C++.",
+    "version": "2.0.2",
+    "releasenote": "Haxe 3 RC2 support.Fixed runtime exception in mloader.Http in flash.",
+    "contributors": [ "massive" ],
+    "dependencies": {}
+}
